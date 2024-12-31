@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+header {
+  background: #282c34;
+  color: white;
+  padding: 20px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+section {
+  margin: 40px 0;
+}
+
+.project {
+  margin: 20px 0;
+}
+
+footer {
+  background: #f1f1f1;
+  padding: 10px;
+}
+
+footer a {
+  color: #007bff;
+  text-decoration: none;
+}
